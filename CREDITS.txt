@@ -1,0 +1,9 @@
+Star data: Yale Bright Star Catalogue, 5th Revised Ed. (Hoffleit & Warren 1991), via CDS (catalog V/50).
+Constellation lines: d3-celestial, Copyright (c) 2015 Olaf Frohn, BSD 3-Clause License. https://github.com/ofrohn/d3-celestial
+Constellation names: d3-celestial (same license as above). Font: Noto Sans JP, SIL Open Font License 1.1.
+Sky texture: NASA/Goddard Space Flight Center Scientific Visualization Studio.
+Gaia DR2: ESA/Gaia/DPAC.
+https://svs.gsfc.nasa.gov/4851
+Constellation art: Sidney Hall, "Urania's Mirror" (London, Samuel Leigh, 1824), public domain. Scans from Wikimedia Commons (category "Urania's Mirror"), many restored by Adam Cuerden from cards owned by John Dolby. https://commons.wikimedia.org/wiki/Category:Urania%27s_Mirror
+H.A. Rey's constellation lines (in textures/night_sky/*_rey.png): Stellarium sky culture modern_rey by Stellarium's team, after H.A. Rey, "The Stars: A New Way to See Them" (1952), CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/ https://github.com/Stellarium/stellarium/tree/master/skycultures/modern_rey ; line star positions: Hipparcos Catalogue (ESA 1997), via VizieR I/239. Because they contain these lines, textures/night_sky/*_rey.png are distributed under CC BY-SA 4.0.
+In textures/night_sky/art.png the cards were fitted to the sky by their stars (Yale BSC5) and clipped to the constellation boundaries (d3-celestial); the paper was turned black.
