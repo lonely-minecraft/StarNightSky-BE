@@ -10,6 +10,8 @@ A resource pack for Minecraft Bedrock Edition that shows a real star sky at nigh
 これはマインクラフトの公式の製品ではありません。Mojang や Microsoft が認めたものでも、関わっているものでもありません。
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
+Java版は [StarNightSky JE](https://github.com/lonely-minecraft/StarNightSky-JE) にあります。
+
 ## ダウンロード
 
 **[StarNightSky_BE.mcpack をダウンロード(最新版)](https://github.com/lonely-minecraft/StarNightSky-BE/releases/latest/download/StarNightSky_BE.mcpack)**
