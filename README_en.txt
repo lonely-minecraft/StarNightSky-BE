@@ -98,7 +98,8 @@ Troubleshooting
 
 - The sky stays after I removed the pack
     Minecraft may keep showing a removed pack until it is restarted.
-    Restart Minecraft after removing the pack.
+    Also, if you enter the world after removing the pack and before restarting,
+    the pack may be turned on again. Remove it again as in "How to uninstall" below.
 
 - Things look wrong together with another resource pack
     This pack replaces the player's client entity (player.entity.json).
@@ -107,13 +108,17 @@ Troubleshooting
 - After a Minecraft update, the player looks or moves wrong
     This pack is built on the player definition of the version it was tested on.
     When an update changes that definition, the pack may no longer fit.
-    In that case, remove this pack and restart Minecraft.
+    In that case, remove this pack as in "How to uninstall" below.
 
 
 How to uninstall
 ----------------
 1. Turn off StarNightSky BE under "Resource Packs" in your world's settings.
-2. Restart Minecraft.
+2. Close Minecraft without entering the world.
+3. Start Minecraft.
+
+If you enter the world after removing the pack and before restarting, the pack may be
+turned on again. (This happened when pressing "Play" straight from the settings screen.)
 
 
 Credits and licenses
