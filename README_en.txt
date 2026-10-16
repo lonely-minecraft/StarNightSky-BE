@@ -4,9 +4,9 @@ StarNightSky BE - Read Me
 A resource pack for Minecraft Bedrock Edition that shows a real star sky at night.
 The sky, with constellation lines and names, slowly turns with time.
 
-Author: lonely-minecraft.blogspot.com
-        https://lonely-minecraft.blogspot.com/
-Version: 1.0.0
+Author: damun-craft.com
+        https://damun-craft.com/
+Version: 1.0.1
 
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
@@ -145,4 +145,7 @@ See CREDITS.txt and LICENSE_d3-celestial.txt in the pack for details.
 
 Version history
 ---------------
+1.0.1  The author's site moved to https://damun-craft.com/.
+       "How to uninstall" now says to close Minecraft without entering the world.
+       The sky looks the same as in 1.0.0.
 1.0.0  First release

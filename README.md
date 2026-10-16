@@ -69,5 +69,5 @@ H.A.レイ方式の星座線を含む画像(`textures/night_sky/lines_rey.png` �
 
 ## 作者
 
-lonely-minecraft.blogspot.com
-<https://lonely-minecraft.blogspot.com/>
+damun-craft.com
+<https://damun-craft.com/>

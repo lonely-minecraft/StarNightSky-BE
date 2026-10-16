@@ -4,9 +4,9 @@ StarNightSky BE 説明書
 マインクラフト統合版の夜空に、本物の星空を映すリソースパックです。
 星座線や星座名の入った夜空が、時間とともにゆっくり回ります。
 
-作者: lonely-minecraft.blogspot.com
-      https://lonely-minecraft.blogspot.com/
-バージョン: 1.0.0
+作者: damun-craft.com
+      https://damun-craft.com/
+バージョン: 1.0.1
 
 これはマインクラフトの公式の製品ではありません。Mojang や Microsoft が認めたものでも、関わっているものでもありません。
 
@@ -140,4 +140,7 @@ StarNightSky BE 説明書
 
 ■ 更新の記録
 ------------------------------
+1.0.1  作者のサイトを https://damun-craft.com/ に移しました。
+       説明書の「外し方」に、外したあとはワールドに入らずに終了する手順を足しました。
+       夜空の表示は 1.0.0 と同じです。
 1.0.0  最初の版
